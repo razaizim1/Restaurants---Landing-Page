@@ -1,0 +1,13 @@
+@media all and (max-width: 1200px) {
+    .first-section {
+        height: 90vh !important;
+    }
+
+    .second-section {
+        height: 50vh !important;
+    }
+
+    .third-section {
+        height: 95vh !important;
+    }
+}
